@@ -1,0 +1,22 @@
+Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+Se imprimió, depende de como se modificó el número de parametros que se espera.
+---------------------------------------------------
+¿Cuál fábrica hiciste? y ¿Cuál es mejor?
+Cree una Simple Factory, depende de la situación y su complejidad. 
+---------------------------------------------------
+Sin parámetros
+Parámetro: qwerty
+Parámetro: pentagon
+Parámetro: Hexagon
+
+¿Cuál(es) de las anteriores instrucciones se ejecutan 
+y funcionan correctamente y por qué?
+
+
+Todas se ejecutan, pero en el caso de pentagon no se
+identifica, pues se requiere que sea igual a como esta en el enum
+
+ ---------------------------------------------------
+
+.gitignore es un archivo que ignora archivos y rutas. Las que el desarrollador desee y así no se suban al repositorios 
+arcihivos tales como binarios, etc.
